@@ -13,7 +13,7 @@
 import json
 import re
 from typing import Dict, Any, List, Optional
-import rrequests as requests
+import requests
 import os
 import random
 from datetime import datetime
